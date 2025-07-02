@@ -3,15 +3,5 @@
     "user": "Marcus_Swedish",
     "password": "12345",
     "ranks": "Asst. Commissioner"
-  },
-  {
-    "user": "Sean_Tezuka",
-    "password": "12345",
-    "ranks": "Commissioner"
-  },
-  {
-    "user": "Anne_Rovillos",
-    "password": "12345",
-    "ranks": "Chief Master Sergeant"
-  },
+  }
 ]
