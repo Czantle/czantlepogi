@@ -7,11 +7,16 @@
  {
     "user": "Chris_Hudson",
     "password": "71001",
-    "ranks": "Police Commissioner"
+    "ranks": "Police Commander"
   },
    {
     "user": "Yolly_Javero",
     "password": "111",
     "ranks": "Police Sergeant"
+  },
+  {
+    "user": "Michael_Mason",
+    "password": "082025",
+    "ranks": "Police Commissioner"
   }
 ]
