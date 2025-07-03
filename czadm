@@ -1,7 +1,13 @@
 [
   {
     "user": "Marcus_Swedish",
-    "password": "12345",
-    "ranks": "Asst. Commissioner"
+    "password": "czadomingo08",
+    "ranks": "Police Sergeant"
+  },
+ {
+    "user": "Chris_Hudson",
+    "password": "71001",
+    "ranks": "Police Commissioner"
   }
+
 ]
