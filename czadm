@@ -10,9 +10,9 @@
     "ranks": "Police Commander"
   },
    {
-    "user": "Yolly_Javero",
-    "password": "111",
-    "ranks": "Police Sergeant"
+    "user": "Cove_T._Kingston",
+    "password": "Cove123",
+    "ranks": "Police Trainee"
   },
   {
     "user": "Michael_Mason",
@@ -38,5 +38,10 @@
     "user": "Kevin_Smith",
     "password": "12345",
     "ranks": "Police Captain"
-  }
+  },
+  {
+    "user": "BabyAma_C_Carding",
+    "password": "Cove123",
+    "ranks": "Police Trainee"
+  },
 ]
