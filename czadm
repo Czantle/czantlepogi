@@ -28,5 +28,15 @@
     "user": "Keneki_J._Uzagi",
     "password": "Lamuerte",
     "ranks": "Police Commissioner"
+  },
+  {
+    "user": "Lim_Hawk",
+    "password": "041121",
+    "ranks": "Police Assistant Commissioner"
+  },
+  {
+    "user": "Kevin_Smith",
+    "password": "12345",
+    "ranks": "Police Captain"
   }
 ]
