@@ -63,5 +63,10 @@
     "user": "Khai_Swedish",
     "password": "Khai123",
     "ranks": "Police Officer"
+  },
+  {
+    "user": "Shanti_Zephyrs",
+    "password": "111",
+    "ranks": "Police Officer"
   }
 ]
