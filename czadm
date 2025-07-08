@@ -73,5 +73,10 @@
     "user": "Jisun_Titum",
     "password": "1503",
     "ranks": "Police Officer"
+   },
+   {
+    "user": "Marcus_Fletcher",
+    "password": "12345",
+    "ranks": "Police Officer"
    }
 ]
