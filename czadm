@@ -78,5 +78,10 @@
     "user": "Marcus_Fletcher",
     "password": "12345",
     "ranks": "Police Officer"
+   },
+   {
+    "user": "BlengBlong_Bello",
+    "password": "12345",
+    "ranks": "Police Officer"
    }
 ]
