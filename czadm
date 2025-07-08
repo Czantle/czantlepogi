@@ -2,7 +2,8 @@
   {
     "user": "Drazzy_Phixion",
     "password": "czadomingo08",
-    "ranks": "Police Assistant Commander"
+    "ranks": "Police Assistant Commander",
+	"badge": "S-1566"
   },
  {
     "user": "Chris_Hudson",
@@ -12,7 +13,8 @@
   {
     "user": "Isabelle_Rogers",
     "password": "1111",
-    "ranks": "Police Commissioner"
+    "ranks": "Police Officer II",
+	"badge": "S-1653"
   },
   {
     "user": "Kevs_Acson",
@@ -22,7 +24,8 @@
   {
     "user": "Keneki_J._Uzagi",
     "password": "Lamuerte",
-    "ranks": "Police Commissioner"
+    "ranks": "Police Commissioner",
+	"badge": "S-1458"
   },
   {
     "user": "Lim_Hawk",
@@ -32,7 +35,8 @@
   {
     "user": "Kevin_Smith",
     "password": "12345",
-    "ranks": "Police Captain"
+    "ranks": "Police Captain",
+	"badge": "S-1288"
   },
   {
     "user": "Cove_T._Kingston",
@@ -47,7 +51,8 @@
   {
     "user": "Julio_Yin",
     "password": "Muerte",
-    "ranks": "Police Commissioner"
+    "ranks": "Police Commissioner",
+	"badge": "S-1311"
   },
   {
     "user": "BabyAma_C_Carding",
