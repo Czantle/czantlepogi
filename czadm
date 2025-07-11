@@ -1,0 +1,208 @@
+[
+  {
+    "user": "Dandan_G._Kimura",
+    "password": "default123",
+    "ranks": "Chief of Police",
+    "badge": "S-1021"
+  },
+  {
+    "user": "Julio_Yin",
+    "password": "Muerte",
+    "ranks": "Chief of Police",
+    "badge": "S-1311"
+  },
+  {
+    "user": "Hann_Yasuoka",
+    "password": "default123",
+    "ranks": "Deputy Chief",
+    "badge": "S-1987"
+  },
+  {
+    "user": "Sevi_Armstrong",
+    "password": "default123",
+    "ranks": "Deputy Chief",
+    "badge": "S-1234"
+  },
+  {
+    "user": "Linx_Phixion",
+    "password": "default123",
+    "ranks": "Deputy Chief",
+    "badge": "S-1092"
+  },
+  {
+    "user": "Lucas_Escobar",
+    "password": "Cjay123",
+    "ranks": "Deputy Chief",
+    "badge": "S-1199"
+  },
+  {
+    "user": "Kevs_Acson",
+    "password": "Kevsacson2025",
+    "ranks": "Commander",
+    "badge": "S-1067"
+  },
+  {
+    "user": "Drazzy_Phixion",
+    "password": "czadomingo08",
+    "ranks": "Commander",
+    "badge": "S-1566"
+  },
+  {
+    "user": "Marcus_Fletcher",
+    "password": "12345",
+    "ranks": "Assistant Commander",
+    "badge": "S-1674"
+  },
+  {
+    "user": "Nash_Guerrero",
+    "password": "Nashontop",
+    "ranks": "Captain",
+    "badge": "S-1377"
+  },
+  {
+    "user": "Jan_Harrison",
+    "password": "default123",
+    "ranks": "Captain",
+    "badge": "S-1410"
+  },
+  {
+    "user": "Kevin_Smith",
+    "password": "12345",
+    "ranks": "Captain",
+    "badge": "S-1288"
+  },
+  {
+    "user": "Shanti_Zephyrs",
+    "password": "111",
+    "ranks": "Captain",
+    "badge": "S-1083"
+  },
+  {
+    "user": "Mitchie_Armstrong",
+    "password": "default123",
+    "ranks": "Lieutenant",
+    "badge": "S-1502"
+  },
+  {
+    "user": "Yuri_Angeles",
+    "password": "default123",
+    "ranks": "Lieutenant",
+    "badge": "S-1856"
+  },
+  {
+    "user": "Makdo_Batosay",
+    "password": "default123",
+    "ranks": "Police Master Sergeant",
+    "badge": "S-1712"
+  },
+  {
+    "user": "Lexus_Avocado",
+    "password": "default123",
+    "ranks": "Police Sergeant",
+    "badge": "S-1621"
+  },
+  {
+    "user": "Jisun_Titum",
+    "password": "1503",
+    "ranks": "Police Officer III",
+    "badge": "S-1539"
+  },
+  {
+    "user": "Marsolo_Marshall",
+    "password": "default123",
+    "ranks": "Police Officer III",
+    "badge": "S-1653"
+  },
+  {
+    "user": "Ken_V._Valencia",
+    "password": "default123",
+    "ranks": "Police Officer III",
+    "badge": "S-1487"
+  },
+  {
+    "user": "Lucas_Sagrado",
+    "password": "default123",
+    "ranks": "Police Officer II",
+    "badge": "S-1934"
+  },
+  {
+    "user": "Khai_Swedish",
+    "password": "Khai123",
+    "ranks": "Police Officer II",
+    "badge": "S-1219"
+  },
+  {
+    "user": "Isabelle_Rogers",
+    "password": "1111",
+    "ranks": "Police Officer II",
+    "badge": "S-1653"
+  },
+  {
+    "user": "Minha_Hyu",
+    "password": "default123",
+    "ranks": "Police Officer II",
+    "badge": "S-1791"
+  },
+  {
+    "user": "Asok_Bosyo",
+    "password": "default123",
+    "ranks": "Police Officer II",
+    "badge": "S-1811"
+  },
+  {
+    "user": "Giovanni_Anderson",
+    "password": "default123",
+    "ranks": "Police Officer II",
+    "badge": "S-1842"
+  },
+  {
+    "user": "Blengblong_Bello",
+    "password": "12345",
+    "ranks": "Police Officer II",
+    "badge": "S-1113"
+  },
+  {
+    "user": "Jim_Dimagiba",
+    "password": "default123",
+    "ranks": "Police Officer I",
+    "badge": "S-1965"
+  },
+  {
+    "user": "Peanut_Picasso",
+    "password": "default123",
+    "ranks": "Police Officer I",
+    "badge": "S-1404"
+  },
+  {
+    "user": "Jaybee_Ezrael",
+    "password": "default123",
+    "ranks": "Police Officer",
+    "badge": "S-1598"
+  },
+  {
+    "user": "Fawzi_Givenchy",
+    "password": "default123",
+    "ranks": "Police Trainee"
+  },
+  {
+    "user": "Blythe_Leroux",
+    "password": "default123",
+    "ranks": "Police Trainee"
+  },
+  {
+    "user": "euly_sy",
+    "password": "default123",
+    "ranks": "Police Trainee"
+  },
+  {
+    "user": "KYLE_CENA",
+    "password": "default123",
+    "ranks": "Police Trainee"
+  },
+  {
+    "user": "Cove_Lee",
+    "password": "Cove123",
+    "ranks": "Police Trainee",
+    "badge": "S-1137"
+  }
+]
