@@ -1,209 +1,134 @@
 [
   {
-    "user": "Dandan_G._Kimura",
-    "password": "default123",
-    "ranks": "Chief of Police",
-    "badge": "S-1021"
-  },
-  {
-    "user": "Julio_Yin",
-    "password": "Muerte",
-    "ranks": "Chief of Police",
-    "badge": "S-1311"
-  },
-  {
-    "user": "Hann_Yasuoka",
-    "password": "default123",
-    "ranks": "Deputy Chief",
-    "badge": "S-1987"
-  },
-  {
-    "user": "Sevi_Armstrong",
-    "password": "default123",
-    "ranks": "Deputy Chief",
-    "badge": "S-1234"
-  },
-  {
-    "user": "Linx_Phixion",
-    "password": "default123",
-    "ranks": "Deputy Chief",
-    "badge": "S-1092"
-  },
-  {
     "user": "Lucas_Escobar",
     "password": "Cjay123",
-    "ranks": "Deputy Chief",
-    "badge": "S-1199"
+    "ranks": "Chief of Police",
+    "badge": "S-0100"
   },
   {
     "user": "Kevs_Acson",
     "password": "Kevsacson2025",
-    "ranks": "Commander",
-    "badge": "S-1067"
-  },
-  {
-    "user": "Drazzy_Phixion",
-    "password": "czadomingo08",
-    "ranks": "Commander",
-    "badge": "S-1566"
-  },
-  {
-    "user": "Marcus_Fletcher",
-    "password": "12345",
-    "ranks": "Assistant Commander",
-    "badge": "S-1674"
-  },
-  {
-    "user": "Nash_Guerrero",
-    "password": "Nashontop",
-    "ranks": "Captain",
-    "badge": "S-1377"
-  },
-  {
-    "user": "Jan_Harrison",
-    "password": "default123",
-    "ranks": "Captain",
-    "badge": "S-1410"
+    "ranks": "Deputy Chief of Police",
+    "badge": "S-0101"
   },
   {
     "user": "Kevin_Smith",
     "password": "12345",
-    "ranks": "Captain",
-    "badge": "S-1288"
+    "ranks": "Commander",
+    "badge": "S-0102"
   },
   {
     "user": "Shanti_Zephyrs",
     "password": "111",
     "ranks": "Captain",
-    "badge": "S-1083"
+    "badge": "S-0103"
   },
   {
-    "user": "Mitchie_Armstrong",
-    "password": "default123",
-    "ranks": "Lieutenant",
-    "badge": "S-1502"
-  },
-  {
-    "user": "Yuri_Angeles",
-    "password": "default123",
-    "ranks": "Lieutenant",
-    "badge": "S-1856"
+    "user": "Jisun_Titum",
+    "password": "1503",
+    "ranks": "Police Sergeant",
+    "badge": "S-0104"
   },
   {
     "user": "Makdo_Batosay",
     "password": "default123",
     "ranks": "Police Master Sergeant",
-    "badge": "S-1712"
+    "badge": "S-0105"
   },
   {
-    "user": "Lexus_Avocado",
-    "password": "default123",
-    "ranks": "Police Sergeant",
-    "badge": "S-1621"
-  },
-  {
-    "user": "Jisun_Titum",
-    "password": "1503",
-    "ranks": "Police Officer III",
-    "badge": "S-1539"
-  },
-  {
-    "user": "Marsolo_Marshall",
+    "user": "Zyra_A_Nuestra",
     "password": "default123",
     "ranks": "Police Officer III",
-    "badge": "S-1653"
-  },
-  {
-    "user": "Ken_V._Valencia",
-    "password": "default123",
-    "ranks": "Police Officer III",
-    "badge": "S-1487"
-  },
-  {
-    "user": "Lucas_Sagrado",
-    "password": "default123",
-    "ranks": "Police Officer II",
-    "badge": "S-1934"
+    "badge": "S-0106"
   },
   {
     "user": "Khai_Swedish",
     "password": "Khai123",
-    "ranks": "Police Officer II",
-    "badge": "S-1219"
+    "ranks": "Police Officer III",
+    "badge": "S-0107"
   },
   {
-    "user": "Isabelle_Rogers",
-    "password": "1111",
-    "ranks": "Police Officer II",
-    "badge": "S-1653"
-  },
-  {
-    "user": "Minha_Hyu",
+    "user": "Etre_Boldz",
     "password": "default123",
     "ranks": "Police Officer II",
-    "badge": "S-1791"
+    "badge": "S-0108"
   },
   {
-    "user": "Asok_Bosyo",
+    "user": "Qinxi_Rai_Pao",
     "password": "default123",
     "ranks": "Police Officer II",
-    "badge": "S-1811"
+    "badge": "S-0109"
   },
   {
-    "user": "Giovanni_Anderson",
+    "user": "Dencio_Sanchez",
     "password": "default123",
     "ranks": "Police Officer II",
-    "badge": "S-1842"
+    "badge": "S-0110"
   },
   {
-    "user": "Blengblong_Bello",
-    "password": "12345",
+    "user": "Juan_Thapp",
+    "password": "default123",
     "ranks": "Police Officer II",
-    "badge": "S-1113"
+    "badge": "S-0111"
   },
   {
-    "user": "Jim_Dimagiba",
+    "user": "Nash_Guerrero",
+    "password": "Nashontop",
+    "ranks": "Chief of Police",
+    "badge": "S-0200"
+  },
+  {
+    "user": "Jan_Harrison",
     "password": "default123",
-    "ranks": "Police Officer I",
-    "badge": "S-1965"
+    "ranks": "Captain",
+    "badge": "S-0201"
   },
   {
-    "user": "Peanut_Picasso",
+    "user": "Jetmark_Kim",
     "password": "default123",
-    "ranks": "Police Officer I",
-    "badge": "S-1404"
+    "ranks": "Trainee",
+    "badge": "S-0202"
   },
   {
-    "user": "Jaybee_Ezrael",
+    "user": "Euly_Sy",
     "password": "default123",
-    "ranks": "Police Officer",
-    "badge": "S-1598"
+    "ranks": "Trainee",
+    "badge": "S-0203"
   },
   {
-    "user": "Fawzi_Givenchy",
+    "user": "Notorious_Ranz",
     "password": "default123",
-    "ranks": "Police Trainee"
+    "ranks": "Trainee",
+    "badge": "S-0204"
   },
   {
-    "user": "Blythe_Leroux",
+    "user": "Rens_Costra",
     "password": "default123",
-    "ranks": "Police Trainee"
+    "ranks": "Trainee",
+    "badge": "S-0205"
   },
   {
-    "user": "euly_sy",
+    "user": "Lonewolf_Mushkillah",
     "password": "default123",
-    "ranks": "Police Trainee"
+    "ranks": "Trainee",
+    "badge": "S-0206"
   },
   {
-    "user": "KYLE_CENA",
+    "user": "Linx_Phixion",
     "password": "default123",
-    "ranks": "Police Trainee"
+    "ranks": "Commissioner",
+    "badge": "S-0300"
   },
   {
-    "user": "Cove_Lee",
-    "password": "Cove123",
-    "ranks": "Police Trainee",
-    "badge": "S-1137"
+    "user": "Drazzy_Phixion",
+    "password": "czadomingo08",
+    "ranks": "Commissioner",
+    "badge": "S-0301"
+  },
+  {
+    "user": "Julio_Yin",
+    "password": "Muerte",
+    "ranks": "Commissioner",
+    "badge": "S-0302"
   }
 ]
-
