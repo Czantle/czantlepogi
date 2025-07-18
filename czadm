@@ -1,21 +1,21 @@
 [
 	{
-    "user": "Kevs_Acson",
+    "user": "Gustavo_Black",
     "password": "Kevsacson2025",
-    "ranks": "Deputy Chief of Police",
-    "badge": "S-0101"
+    "ranks": "Senior Agent",
+    "badge": "Senior Agent"
 	},
   {
     "user": "Jisun_Titum",
     "password": "1503",
-    "ranks": "Police Sergeant",
-    "badge": "S-0104"
+    "ranks": "Special Agent",
+    "badge": "Special Agent"
 	},
   {
-    "user": "Qinxi_Rai_Pao",
-    "password": "default123",
+    "user": "Mark_Springton",
+    "password": "123",
     "ranks": "Police Officer II",
-    "badge": "S-0109"
+    "badge": "Director"
   }
 ]
 	
