@@ -4,7 +4,47 @@
     "password": "123",
     "ranks": "--------",
     "badge": "Police General"
+  },
+  {
+    "user": "Hector_Perez",
+    "password": "Hector",
+    "ranks": "--------",
+    "badge": "Police Major"
+  },
+  {
+    "user": "Scoota_Collins",
+    "password": "drazgrabbershesh",
+    "ranks": "--------",
+    "badge": "Police Major"
+  },
+  {
+    "user": "Redhat_Neehs",
+    "password": "titoy",
+    "ranks": "--------",
+    "badge": "Police Captain"
+  },
+  {
+    "user": "Saul_Gudman",
+    "password": "Cuteako123",
+    "ranks": "--------",
+    "badge": "Police Sergeant"
+  },
+  {
+    "user": "Kevin_Smith",
+    "password": "toytoymo",
+    "ranks": "--------",
+    "badge": "Police Lieutenant General"
+  },
+  {
+    "user": "Tomacito_Cruz",
+    "password": "akolngto",
+    "ranks": "--------",
+    "badge": "Police Sergeant"
+  },
+  {
+    "user": "Dionne_C._Levinne",
+    "password": "mamamo",
+    "ranks": "--------",
+    "badge": "Police Corporal"
   }
 ]
-	
-	
