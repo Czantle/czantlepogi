@@ -64,5 +64,41 @@
     "password": "12345",
     "ranks": "--------",
     "badge": "Police Lieutenant General"
+  },
+  {
+    "user": "Jhon_Santa_Amahan",
+    "password": "69",
+    "ranks": "--------",
+    "badge": "Police Corporal"
+  },
+  {
+    "user": "Aji_Namoto",
+    "password": "tigang",
+    "ranks": "--------",
+    "badge": "Police Colonel"
+  },
+  {
+    "user": "Terb_Hermano",
+    "password": "Sayolangkakalampag",
+    "ranks": "--------",
+    "badge": "Police Major"
+  },
+  {
+    "user": "Lorenz_Nakani",
+    "password": "shane",
+    "ranks": "--------",
+    "badge": "Police Corporal"
+  },
+  {
+    "user": "Yuuuki_Manami",
+    "password": "TODOMONA",
+    "ranks": "--------",
+    "badge": "Police Sergeant"
+  },
+  {
+    "user": "Jayden_Agrava",
+    "password": "pakiss",
+    "ranks": "--------",
+    "badge": "Police Colonel"
   }
 ]
