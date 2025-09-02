@@ -3,13 +3,31 @@
     "user": "Drazzy_H_Phixion",
     "password": "123",
     "ranks": "--------",
-    "badge": "Police General"
+    "badge": "Director"
+  },
+  {
+    "user": "Jiovanni_Sinclair",
+    "password": "123",
+    "ranks": "--------",
+    "badge": "Supervisory Special Agent"
+  },
+ {
+    "user": "Jiovanni_Sinclair",
+    "password": "123",
+    "ranks": "--------",
+    "badge": "Supervisory Special Agent"
+  },
+  {
+    "user": "Claydee_Morningmoon",
+    "password": "Hector",
+    "ranks": "--------",
+    "badge": "Supervisory Special Agent"
   },
   {
     "user": "Keir_Raw",
     "password": "Hector",
     "ranks": "--------",
-    "badge": "Police Major"
+    "badge": "Supervisory Special Agent"
   },
   {
     "user": "Samuel_Collins",
