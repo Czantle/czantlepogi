@@ -1,8 +1,14 @@
 [
   {
-    "user": "Mark_Fieldman",
+    "user": "Mark_Springton",
     "password": "123",
     "ranks": "--------",
-    "badge": "Scorpion"
+    "badge": "PC-001"
+  },
+  {
+    "user": "Diego_H._Mezzo",
+    "password": "123",
+    "ranks": "--------",
+    "badge": "PDC-001"
   }
 ]
