@@ -1,20 +1,32 @@
 [
-  {
-    "user": "Mark_Springton",
-    "password": "123",
-    "ranks": "--------",
-    "badge": "PC-001"
-  },
-  {
-    "user": "Diego_H._Mezzo",
-    "password": "123",
-    "ranks": "--------",
-    "badge": "PDC-001"
-  },
 	{
     "user": "Masato_H._Trias",
     "password": "MDT1111",
-    "ranks": "--------",
-    "badge": "PCOP-002"
+    "ranks": "-------------",
+    "badge": "SAPD-COP-25-170"
+ 	},
+	{
+    "user": "Diego_H._Mezzo",
+    "password": "2025",
+    "ranks": "-------------",
+    "badge": "SAPD-DCOM-25-002"
+    },
+	{
+    "user": "Mark_Springton",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "SAPD-COM-25-001"
+    },
+    {
+    "user": "Zack_Smith",
+    "password": "JANNA17",
+    "ranks": "-------------",
+    "badge": "SAPD-AC-17-17"
+    },
+    {
+     "user": "Blengblong_Superior",
+    "password": "Blengblong",
+    "ranks": "-------------",
+    "badge": "SAPD-CV-05-01"
   }
 ]
