@@ -1,6 +1,6 @@
 [
   {
-    "user": "Ryuji_T._Hinaoka",
+    "user": "Masato_H._Trias",
     "password": "MDT1111",
     "ranks": "-------------",
     "badge": "SAPD-COP-25-170"
@@ -58,5 +58,23 @@
     "password": "200803",
     "ranks": "-------------",
     "badge": "SAPD-CPL|GD-25-0504"
+  },
+  {
+    "user": "Danichi_Hoshizora",
+    "password": "110325",
+    "ranks": "-------------",
+    "badge": "N/A"
+  },
+  {
+    "user": "David_Williams",
+    "password": "1104",
+    "ranks": "-------------",
+    "badge": "SAPD-CPL-IAD-25-0505"
+  },
+  {
+    "user": "Blengblong_Bello",
+    "password": "Blengblong01",
+    "ranks": "-------------",
+    "badge": "SAPD-CPL-NONE-25-0506"
   }
 ]
