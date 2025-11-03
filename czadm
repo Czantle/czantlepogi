@@ -76,5 +76,11 @@
     "password": "Blengblong01",
     "ranks": "-------------",
     "badge": "SAPD-CPL-NONE-25-0506"
+  },
+  {
+    "user": "Yolly_Javero",
+    "password": "111",
+    "ranks": "-------------",
+    "badge": "SAPD-CPL|SWAT-25-0501"
   }
 ]
