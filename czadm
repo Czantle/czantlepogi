@@ -82,5 +82,17 @@
     "password": "111",
     "ranks": "-------------",
     "badge": "SAPD-CPL|SWAT-25-0501"
+  },
+  {
+    "user": "Isabelle_Rogers",
+    "password": "111",
+    "ranks": "-------------",
+    "badge": "SAPD-CPL-NONE-25-0511"
+  },
+  {
+    "user": "Minha_Hyu",
+    "password": "111",
+    "ranks": "-------------",
+    "badge": "SAPD-CPL-NONE-25-0510"
   }
 ]
