@@ -4,6 +4,25 @@
       "arrest": "/arrest $PLAYERID $MINUTES $FINE",
       "ticket": "/ticket $PLAYERID $AMOUNT $REASON"
     },
+    "mdcEnabled": true,
+    "mdcConditions": [
+      {
+        "isInVehicle": true,
+        "allowedVehicles": [
+          596,
+          597,
+          598,
+          599
+        ]
+      },
+      {
+        "isInVehicle": false,
+        "charCoordinates": [
+          1622.9535,
+          -71.9412
+        ]
+      }
+    ],
     "accounts": [
       {
         "user": "Masato_H._Trias",
