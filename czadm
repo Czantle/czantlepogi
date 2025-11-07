@@ -4,17 +4,17 @@
       "arrest": "/arrest $PLAYERID $MINUTES $FINE",
       "ticket": "/ticket $PLAYERID $AMOUNT $REASON"
     },
-	"mdcEnabled": true,
-	"mdcConditions": [
-		{
-			"isInVehicle": true,
-			"allowedVehicles": [ 596, 597, 598, 599 ]
-		},
-		{
-			"isInVehicle": false,
-			"charCoordinates": [ 1622.9535, -71.9412 ]
-		}
-	],
+    "mdcEnabled": true,
+    "mdcConditions": [
+      {
+        "isInVehicle": true,
+        "allowedVehicles": [596, 597, 598, 599]
+      },
+      {
+        "isInVehicle": false,
+        "charCoordinates": [1622.9535, -71.9412]
+      }
+    ],
     "accounts": [
       {
         "user": "Masato_H._Trias",
@@ -111,8 +111,19 @@
         "password": "111",
         "ranks": "-------------",
         "badge": "SAPD-CPL-NONE-25-0510"
+      },
+      {
+        "user": "Jahseh_Brown",
+        "password": "1470",
+        "ranks": "-------------",
+        "badge": "SAPD-CPL-GD-44-0554"
+      },
+      {
+        "user": "Eva_Gorjas",
+        "password": "prettyeva",
+        "ranks": "-------------",
+        "badge": "SAPD-SGT|FLB-25-0401"
       }
     ]
   }
 }
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
