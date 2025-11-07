@@ -129,6 +129,12 @@
         "password": "111104",
         "ranks": "-------------",
         "badge": "SAPD-TR-25-FCL-A2"
+      },
+      {
+        "user": "Ryuji_T._Hinaoka",
+        "password": "1",
+        "ranks": "-------------",
+        "badge": "SAPD-ECOM|IAD-25-003"
       }
     ]
   }
