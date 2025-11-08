@@ -207,6 +207,12 @@
         "password": "SAPD2025",
         "ranks": "-------------",
         "badge": "SAPD-GD-25-FCL-A2"
+      },
+      {
+        "user": "Kyo_Trias",
+        "password": "1",
+        "ranks": "-------------",
+        "badge": "SAPD-ECOM|IAD-25-003"
       }
     ]
   }
