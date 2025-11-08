@@ -139,7 +139,14 @@
         "password": "1",
         "ranks": "-------------",
         "badge": "SAPD-ECOM|IAD-25-003"
+      },
+      {
+        "user": "Arcady_Rossarentiva",
+        "password": "SCOG69",
+        "ranks": "-------------",
+        "badge": "SAPD-CMD|TMRU-25-0203"
       }
+
     ]
   }
 }
