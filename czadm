@@ -145,7 +145,19 @@
         "password": "SCOG69",
         "ranks": "-------------",
         "badge": "SAPD-CMD|TMRU-25-0203"
-      }
+      },
+      {
+  "user": "Blengblong_Bello",
+  "password": "Blengblong01",
+  "ranks": "-------------",
+  "badge": "SAPD-SPO1-NONE-25-0506"
+},
+{
+  "user": "Danichi_Hoshizora",
+  "password": "110325",
+  "ranks": "-------------",
+  "badge": "SAPD-SPO2-GD-25-0515"
+}
 
     ]
   }
