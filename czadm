@@ -16,198 +16,199 @@
       }
     ],
     "accounts": [
-      {
-        "badge": "SAPD-COMGEN|CMD-25-001",
-        "user": "Mark Springton",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-DCOMGEN|CMD-25-002",
-        "user": "Diego H. Mezzo",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-ECOM|IAD-25-003",
-        "user": "Masato H. Trias",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-ACOM|CMD-25-004",
-        "user": "Jordan Maddox",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-DIR|CMD-25-005",
-        "user": "Makku Vikouri",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-CSUPT|CMD-25-006",
-        "user": "Calvin Klein",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SSUPT|SWAT-25-0201",
-        "user": "Mateo Salvaje",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SSUPT|CID-25-0202",
-        "user": "Trippie Lee",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SSUPT|TMRU-25-0203",
-        "user": "Arcady Rossentiva",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SSUPT|CMD-25-0204",
-        "user": "Isabelle Rogers",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SUPT|SWAT-25-0211",
-        "user": "Zack Smith",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SUPT|IAD-25-0212",
-        "user": "Patrick Bateman",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-INSP|GD-25-0276",
-        "user": "Xavier Mcdonald",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SUPT|IAD-25-0213",
-        "user": "Blythe Leroux",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SPO4|GD-25-0301",
-        "user": "Javier Pena",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-SPO2|FLB-25-0351",
-        "user": "Blengblong Superior",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO3|FLB-25-0701",
-        "user": "Sol U. Carter",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO3|FLB-25-0702",
-        "user": "Heart Gorjas",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO3|FLB-25-0703",
-        "user": "Eva Gorjas",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|SWAT-25-0501",
-        "user": "Yolly Javero",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|SWAT-25-0502",
-        "user": "Evan Giovanni",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|SWAT-25-0503",
-        "user": "Chester Magtoto",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|GD-25-0505",
-        "user": "Blaze Watson",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|IAD-25-0506",
-        "user": "David Williams",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|GD-25-0507",
-        "user": "Blengblong Bello",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|SWAT-25-0508",
-        "user": "Danichi Hoshizora",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|FLB-25-0509",
-        "user": "Lucas Sagrado",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO2|GD-25-0510",
-        "user": "Minha Hyu",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-PO1|GD-25-0901",
-        "user": "Jiso Hiromitsu",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-GD-25-FCL-A1",
-        "user": "Berting Salazar",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-GD-25-FCL-A2",
-        "user": "Francisco H Uno",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      },
-      {
-        "badge": "SAPD-GD-25-FCL-A2",
-        "user": "Andress Marshall",
-        "password": "SAPD2025",
-        "ranks": "-------------"
-      }
+      [
+  {
+    "user": "Mark_Springton",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-COMGEN|CMD-25-001"
+  },
+  {
+    "user": "Diego_H._Mezzo",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-DCOMGEN|CMD-25-002"
+  },
+  {
+    "user": "Masato_H._Trias",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-ECOM|IAD-25-003"
+  },
+  {
+    "user": "Jordan_Maddox",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-ACOM|CMD-25-004"
+  },
+  {
+    "user": "Makku_Vikouri",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-DIR|CMD-25-005"
+  },
+  {
+    "user": "Calvin_Klein",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-CSUPT|CMD-25-006"
+  },
+  {
+    "user": "Mateo_Salvaje",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SSUPT|SWAT-25-0201"
+  },
+  {
+    "user": "Trippie_Lee",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SSUPT|CID-25-0202"
+  },
+  {
+    "user": "Arcady_Rossentiva",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SSUPT|TMRU-25-0203"
+  },
+  {
+    "user": "Isabelle_Rogers",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SSUPT|CMD-25-0204"
+  },
+  {
+    "user": "Zack_Smith",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SUPT|SWAT-25-0211"
+  },
+  {
+    "user": "Patrick_Bateman",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SUPT|IAD-25-0212"
+  },
+  {
+    "user": "Xavier_Mcdonald",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-INSP|GD-25-0276"
+  },
+  {
+    "user": "Blythe_Leroux",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SUPT|IAD-25-0213"
+  },
+  {
+    "user": "Javier_Pena",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SPO4|GD-25-0301"
+  },
+  {
+    "user": "Blengblong_Superior",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-SPO2|FLB-25-0351"
+  },
+  {
+    "user": "Sol_U._Carter",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO3|FLB-25-0701"
+  },
+  {
+    "user": "Heart_Gorjas",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO3|FLB-25-0702"
+  },
+  {
+    "user": "Eva_Gorjas",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO3|FLB-25-0703"
+  },
+  {
+    "user": "Yolly_Javero",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|SWAT-25-0501"
+  },
+  {
+    "user": "Evan_Giovanni",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|SWAT-25-0502"
+  },
+  {
+    "user": "Chester_Magtoto",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|SWAT-25-0503"
+  },
+  {
+    "user": "Blaze_Watson",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|GD-25-0505"
+  },
+  {
+    "user": "David_Williams",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|IAD-25-0506"
+  },
+  {
+    "user": "Blengblong_Bello",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|GD-25-0507"
+  },
+  {
+    "user": "Danichi_Hoshizora",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|SWAT-25-0508"
+  },
+  {
+    "user": "Lucas_Sagrado",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|FLB-25-0509"
+  },
+  {
+    "user": "Minha_Hyu",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO2|GD-25-0510"
+  },
+  {
+    "user": "Jiso_Hiromitsu",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-PO1|GD-25-0901"
+  },
+  {
+    "user": "Berting_Salazar",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-GD-25-FCL-A1"
+  },
+  {
+    "user": "Francisco_H._Uno",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-GD-25-FCL-A2"
+  },
+  {
+    "user": "Andress_Marshall",
+    "password": "SAPD2025",
+    "ranks": "-------------",
+    "badge": "SAPD-GD-25-FCL-A2"
+  }
     ]
   }
 }
