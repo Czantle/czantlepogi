@@ -1,7 +1,7 @@
 {
   "104.234.180.52:26002": {
     "syntax": {
-      "arrest": "/arrest $PLAYERID $MINUTES $FINE",
+      "arrest": "/arrest $PLAYERID $MINUTES",
       "ticket": "/ticket $PLAYERID $AMOUNT $REASON"
     },
     "mdcEnabled": true,
@@ -223,3 +223,4 @@
     ]
   }
 }
+
