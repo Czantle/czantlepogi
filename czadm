@@ -22,6 +22,11 @@
     "ranks": "-------------",
     "badge": "Director Police Department"
   },
+  "user": "Jr_Sinclair",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Director Police Department"
+  },
   {
     "user": "Tuks_Ones",
     "password": "RSNP2025",
@@ -295,6 +300,7 @@
 ]
   }
 }
+
 
 
 
