@@ -16,212 +16,285 @@
       }
     ],
     "accounts": [
-      {
-        "user": "Barney_Kalabre",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-COMGEN|CMD-25-001"
-      },
-      {
-        "user": "Diego_H._Mezzo",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-DCOMGEN|CMD-25-002"
-      },
-      {
-        "user": "Masato_H._Trias",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-ECOM|IAD-25-003"
-      },
-      {
-        "user": "Jordan_Maddox",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-ACOM|CMD-25-004"
-      },
-      {
-        "user": "Makku_Vikouri",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-DIR|CMD-25-005"
-      },
-      {
-        "user": "Calvin_Klein",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-CSUPT|CMD-25-006"
-      },
-      {
-        "user": "Ziggy_Iggy_Goodrick",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SSUPT|SWAT-25-0201"
-      },
-      {
-        "user": "Trippie_Lee",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SSUPT|CID-25-0202"
-      },
-      {
-        "user": "Arcady_Rossarentiva",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SSUPT|TMRU-25-0203"
-      },
-      {
-        "user": "Isabelle_Rogers",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SSUPT|CMD-25-0204"
-      },
-      {
-        "user": "Zack_Smith",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SUPT|SWAT-25-0211"
-      },
-      {
-        "user": "Patrick_Bateman",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SUPT|IAD-25-0212"
-      },
-      {
-        "user": "Xavier_Mcdonaldo",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-INSP|GD-25-0276"
-      },
-      {
-        "user": "Blythe_Leroux",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SUPT|IAD-25-0213"
-      },
-      {
-        "user": "Javier_Pena",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SPO4|GD-25-0301"
-      },
-      {
-        "user": "Blengblong_Superior",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-SPO2|FLB-25-0351"
-      },
-      {
-        "user": "Sol_U._Carter",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO3|FLB-25-0701"
-      },
-      {
-        "user": "Heart_Gorjas",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO3|FLB-25-0702"
-      },
-      {
-        "user": "Eva_Gorjas",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO3|FLB-25-0703"
-      },
-      {
-        "user": "Yolly_Javero",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|SWAT-25-0501"
-      },
-      {
-        "user": "Evan_Giovanni",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|SWAT-25-0502"
-      },
-      {
-        "user": "Chester_Magtoto",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|SWAT-25-0503"
-      },
-      {
-        "user": "Blaze_Watson",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|GD-25-0505"
-      },
-      {
-        "user": "David_M._Trias",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|IAD-25-0506"
-      },
-      {
-        "user": "Blengblong_Bello",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|GD-25-0507"
-      },
-      {
-        "user": "Danichi_Hoshizora",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|SWAT-25-0508"
-      },
-      {
-        "user": "Lucas_Sagrado",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|FLB-25-0509"
-      },
-      {
-        "user": "Minha_Hyu",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|GD-25-0510"
-      },
-      {
-        "user": "Jiso_Hiromitsu",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO1|GD-25-0901"
-      },
-      {
-        "user": "Berting_Salazar",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-GD-25-FCL-A1"
-      },
-      {
-        "user": "Francisco_H_Uno",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-GD-25-FCL-A2"
-      },
-      {
-        "user": "Andress_Marshall",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-GD-25-FCL-A2"
-      },
-      {
-        "user": "Kyo_Trias",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-ECOM|IAD-25-003"
-      },
-      {
-        "user": "Jahseh_Brown",
-        "password": "SAPD2025",
-        "ranks": "-------------",
-        "badge": "SAPD-PO2|IAD-25-0511"
-      }
-    ]
+  {
+    "user": "Barney_Kalabre",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Director Police Department"
+  },
+  {
+    "user": "Tuks_Ones",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Assistant Director Of Police"
+  },
+  {
+    "user": "Francisco_H_Uno",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Commander"
+  },
+  {
+    "user": "James_Whitmore",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Commander"
+  },
+  {
+    "user": "Tre_Antwan",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Commander"
+  },
+  {
+    "user": "Charles_Seqi",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Captain II"
+  },
+  {
+    "user": "Loid_Dimetrius",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Commissioner"
+  },
+  {
+    "user": "Jr_Sinclair",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Commissioner"
+  },
+  {
+    "user": "Andrew_Chua",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Deputy Commissioner"
+  },
+  {
+    "user": "John_Ruben",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Commander"
+  },
+  {
+    "user": "Berting_Salazar",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Lieutenant"
+  },
+  {
+    "user": "Kiyo_Williamson",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Lieutenant"
+  },
+  {
+    "user": "Lucio_Per",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Sergeant I"
+  },
+  {
+    "user": "Junior_Hulyo",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Officer III+1"
+  },
+  {
+    "user": "Amaury_Seydoux",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Officer III"
+  },
+  {
+    "user": "Keneki_Watanabe",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Officer II"
+  },
+  {
+    "user": "Gab_Sulasok",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Officer I"
+  },
+  {
+    "user": "Saint_Kalabre",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Officer I"
+  },
+  {
+    "user": "Dos_Quatro",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Officer I"
+  },
+  {
+    "user": "Shuichi_Akai",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO1"
+  },
+  {
+    "user": "Don_Marco",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO1"
+  },
+  {
+    "user": "Cardo_Mello",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO1"
+  },
+  {
+    "user": "Creiy_Dim",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO1"
+  },
+  {
+    "user": "Juanito_Hernandez",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO1"
+  },
+  {
+    "user": "Francis_Cruz",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO1"
+  },
+  {
+    "user": "Roberto_H._Uno",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO2"
+  },
+  {
+    "user": "Yukies_Westmoreland",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO2"
+  },
+  {
+    "user": "Kap_Basilyo",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Quavo_Price",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Taba_Choi",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Sycte_Lynch",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Shaun_Osama",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Anthony_Westmoreland",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Buboy_Saludsod",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Cheng_R._Weston",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Bini_Tetsu",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Zero_Levicticus",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Tutoy_Decarpios",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Dimz_Scotte",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Steve_Mezzo",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Daniel_Jaseh",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Adam_Khalifa",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Primo_Pitsuu",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Ranz_Hinaoka",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Noah_Guzman",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Iway_T._Weston",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  }
+]
   }
 }
+
 
 
