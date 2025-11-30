@@ -23,25 +23,19 @@
     "badge": "Director Police Department"
   },
   {
-  "user": "Jr_Sinclair",
-    "password": "RSNP2025",
-    "ranks": "-------------",
-    "badge": "Director Police Department"
-  },
-  {
     "user": "Tuks_Ones",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Assistant Director Of Police"
   },
   {
-    "user": "Francisco_H_Uno",
+    "user": "James_Whitmore",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Commander"
   },
   {
-    "user": "James_Whitmore",
+    "user": "Francisco_H_Uno",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Commander"
@@ -68,7 +62,7 @@
     "user": "Jr_Sinclair",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "Police Commissioner"
+    "badge": "Police Director"
   },
   {
     "user": "Andrew_Chua",
@@ -83,13 +77,13 @@
     "badge": "Police Commander"
   },
   {
-    "user": "Berting_Salazar",
+    "user": "Kiyo_Williamson",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Lieutenant"
   },
   {
-    "user": "Kiyo_Williamson",
+    "user": "Berting_Salazar",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Lieutenant"
@@ -113,19 +107,25 @@
     "badge": "Police Officer III"
   },
   {
+    "user": "Yuki_Westmoreland",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Officer II"
+  },
+  {
     "user": "Keneki_Watanabe",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Officer II"
   },
   {
-    "user": "Gab_Sulasok",
+    "user": "Robert_A_Uno",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "Police Officer I"
+    "badge": "Police Officer II"
   },
   {
-    "user": "Saint_Kalabre",
+    "user": "Creiy_Dim",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Officer I"
@@ -137,55 +137,37 @@
     "badge": "Police Officer I"
   },
   {
-    "user": "Shuichi_Akai",
+    "user": "Juanito_Hernandez",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "PO1"
-  },
-  {
-    "user": "Don_Marco",
-    "password": "RSNP2025",
-    "ranks": "-------------",
-    "badge": "PO1"
+    "badge": "Police Officer I"
   },
   {
     "user": "Cardo_Mello",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "PO1"
+    "badge": "Police Officer I"
   },
   {
-    "user": "Creiy_Dim",
+    "user": "Saint_Kalabre",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "PO1"
+    "badge": "Police Officer I"
   },
   {
-    "user": "Juanito_Hernandez",
+    "user": "Gab_Sulasok",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "PO1"
+    "badge": "Police Officer I"
   },
   {
-    "user": "Francis_Cruz",
+    "user": "Don_Marco",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "PO1"
+    "badge": "Police Officer I"
   },
   {
-    "user": "Roberto_H._Uno",
-    "password": "RSNP2025",
-    "ranks": "-------------",
-    "badge": "PO2"
-  },
-  {
-    "user": "Yukies_Westmoreland",
-    "password": "RSNP2025",
-    "ranks": "-------------",
-    "badge": "PO2"
-  },
-  {
-    "user": "Kap_Basilyo",
+    "user": "Anghelito_Guzman",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Cadet"
@@ -203,13 +185,37 @@
     "badge": "Police Cadet"
   },
   {
+    "user": "Kap_Basilyo",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Shuichi_Akai",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "PO1"
+  },
+  {
+    "user": "Shaun_Osama",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Zian_Ghurka",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
     "user": "Sycte_Lynch",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Cadet"
   },
   {
-    "user": "Shaun_Osama",
+    "user": "Syouma_Sanada",
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Cadet"
@@ -221,22 +227,10 @@
     "badge": "Police Cadet"
   },
   {
-    "user": "Buboy_Saludsod",
+    "user": "Francis_Cruz",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "Police Cadet"
-  },
-  {
-    "user": "Cheng_R._Weston",
-    "password": "RSNP2025",
-    "ranks": "-------------",
-    "badge": "Police Cadet"
-  },
-  {
-    "user": "Bini_Tetsu",
-    "password": "RSNP2025",
-    "ranks": "-------------",
-    "badge": "Police Cadet"
+    "badge": "PO1"
   },
   {
     "user": "Zero_Levicticus",
@@ -297,10 +291,29 @@
     "password": "RSNP2025",
     "ranks": "-------------",
     "badge": "Police Cadet"
+  },
+  {
+    "user": "Cheng_Weston",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Buboy_Saludsod",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Bini_Tetsu",
+    "password": "RSNP2025",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
   }
 ]
   }
 }
+
 
 
 
