@@ -116,7 +116,7 @@
     "user": "Keneki_Watanabe",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "Police Officer II"
+    "badge": "Police Lieutenant I"
   },
   {
     "user": "Robert_A_Uno",
@@ -278,7 +278,7 @@
     "user": "Ranz_Hinaoka",
     "password": "RSNP2025",
     "ranks": "-------------",
-    "badge": "Police Cadet"
+    "badge": "Police Officer I"
   },
   {
     "user": "Noah_Guzman",
@@ -313,6 +313,7 @@
 ]
   }
 }
+
 
 
 
