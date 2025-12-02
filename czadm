@@ -71,12 +71,6 @@
     "badge": "Police Deputy Commissioner"
   },
   {
-    "user": "John_Ruben",
-    "password": "RSNP2025",
-    "ranks": "-------------",
-    "badge": "Police Commander"
-  },
-  {
     "user": "Kiyo_Williamson",
     "password": "RSNP2025",
     "ranks": "-------------",
@@ -313,6 +307,7 @@
 ]
   }
 }
+
 
 
 
