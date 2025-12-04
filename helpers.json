@@ -6,6 +6,16 @@
 				"name": "Isabelle_Claire",
 				"pass": "1234"
 				
+			},
+			{
+				"name": "Barney_Kalabre",
+				"pass": "1234"
+				
+			},
+			{
+				"name": "Caliex_U_Marchetti",
+				"pass": "1234"
+				
 			}
 		],
 		"command": "/answerhelp",
