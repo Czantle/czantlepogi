@@ -16,6 +16,16 @@
 				"name": "Caliex_U_Marchetti",
 				"pass": "1234"
 				
+			},
+			{
+				"name": "Ciara_Valencia",
+				"pass": "1234"
+				
+			},
+			{
+				"name": "Kupal_Account",
+				"pass": "1234"
+				
 			}
 		],
 		"command": "/answerhelp",
