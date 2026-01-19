@@ -24,302 +24,190 @@
       }
     ],
     "accounts": [
-      {
-        "user": "Mark_Springton",
-        "password": "123",
-        "ranks": "-------------",
-        "badge": "Police Commissioner"
-      },
-      {
-        "user": "Aki_Carson",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Commissioner"
-      },
-      {
-        "user": "Keneki_W_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Deputy Commissioner"
-      },
-      {
-        "user": "Caliex_U_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Deputy Commissioner"
-      },
-      {
-        "user": "Tuks_Ones",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Deputy Commissioner"
-      },
-      {
-        "user": "Marcotte_P_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Deputy Commissioner"
-      },
-      {
-        "user": "Lucio_Per",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Commander"
-      },
-      {
-        "user": "Yuki_Westmoreland",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Captain"
-      },
-      {
-        "user": "Robert_A_Uno",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Captain"
-      },
-      {
-        "user": "Tyruz_Slash",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Captain"
-      },
-      {
-        "user": "Anghelito_Guzman",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer II"
-      },
-      {
-        "user": "Kaito_M_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer II"
-      },
-      {
-        "user": "Shekinah_Azrael",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer II"
-      },
-      {
-        "user": "Ciara_V_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer II"
-      },
-      {
-        "user": "Daniel_Jaseh",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Abdullah_Maute",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Butch_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Cove_T_Lee",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Aqua_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Kodak_Blue",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Lorenz_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Ranz_Hinaoka",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Xed_Smith",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Tre_Antwan",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Dian_Antwan",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Vicenzio_H_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Danichi_H_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Officer I"
-      },
-      {
-        "user": "Don_Ranzel",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Lucas_Francisco",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Kyoshu_Alfonso",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Xin_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Drei_O_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Loid_Dimetrius",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Noah_Guzman",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Carl_Marchetti",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Don_Marco",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Zian_G_Carson",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Santiago_Bulls",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Tutoy_Decarpios",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Creiy_Dim",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Daze_Herrera",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Isabelle_Claire",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Mikhail_Shcherbatov",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Luzy_Blaze_Uno",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Berting_Salazar",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Anthony_Westmoreland",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Buboy_Saludsod",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-      {
-        "user": "Kevin_Tacobell",
-        "password": "RSNP2025",
-        "ranks": "-------------",
-        "badge": "Police Cadet"
-      },
-	  {
-		"user": "Yolly_Javero",
-		"password": "RSNP2025",
-		"ranks": "-",
-		"badge": "Police Cadet"
-	  }
-    ]
+      [
+  {
+    "user": "Yuki_Westmoreland",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Commissioner"
+  },
+  {
+    "user": "Mang_Kalas",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Commissioner"
+  },
+  {
+    "user": "Mark_Smith",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Commissioner"
+  },
+  {
+    "user": "Puff_Moretti",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Deputy Commissioner"
+  },
+  {
+    "user": "MJ_Wawix",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Deputy Commissioner"
+  },
+  {
+    "user": "Roberto_Suarez",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Executive Commissioner"
+  },
+  {
+    "user": "Archer_Wille",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Executive Commissioner"
+  },
+  {
+    "user": "Miller_Faguda",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Assistant Chief of Police"
+  },
+  {
+    "user": "Javier_Pena",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Captain"
+  },
+  {
+    "user": "Mark_Springton",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Captain"
+  },
+  {
+    "user": "Don_Azteca",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Captain"
+  },
+  {
+    "user": "Cove_Maxwell",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Lieutenant"
+  },
+  {
+    "user": "Conrad_Cervecero",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Lieutenant"
+  },
+  {
+    "user": "Cartel_Karts",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Sergeant I"
+  },
+{
+    "user": "Uno_E_Eulen",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Corporal"
+  },
+  {
+    "user": "Jox_Salvaje",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Patrol Officer III"
+  },
+  {
+    "user": "Rei_Shelby",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Patrol Officer I"
+  },
+  {
+    "user": "Ciara_V_Uno",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Patrol Officer I"
+  },
+  {
+    "user": "Locco_Faustino",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Patrol Officer I"
+  },
+  {
+    "user": "Mics_V_Profaci",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Patrol Officer I"
+  },
+  {
+    "user": "Jepoy_Makulit",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Patrol Officer I"
+  },
+  {
+    "user": "Pol_Tacs",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Aki_X_Khrushchev",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Orti_Rivera",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Scrim_Kozy",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Xion_Bertulongoy",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Nikita_Khrushchev",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "El_Kebraw",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Ivan_Brooklyn",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  },
+  {
+    "user": "Tuks_Ones",
+    "password": "123",
+    "ranks": "-------------",
+    "badge": "Police Cadet"
+  }
+]
   }
 }
+
 
 
