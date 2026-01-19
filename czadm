@@ -23,7 +23,7 @@
         ]
       }
     ],
-    "accounts": [
+    "accounts": 
       [
   {
     "user": "Yuki_Westmoreland",
@@ -109,7 +109,7 @@
     "ranks": "-------------",
     "badge": "Sergeant I"
   },
-{
+  {
     "user": "Uno_E_Eulen",
     "password": "123",
     "ranks": "-------------",
