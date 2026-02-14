@@ -1,5 +1,5 @@
 {
-  "104.234.180.228:7777": {
+  "......": {
     "syntax": {
       "arrest": "/arrest $PLAYERID $MINUTES $FINE",
       "ticket": "/ticket $PLAYERID $AMOUNT $REASON"
