@@ -1,7 +1,7 @@
 {
   "31.58.143.82:7777": {
     "syntax": {
-      "arrest": "/arrest $PLAYERID $MINUTES $FINE",
+      "arrest": "/arrest $PLAYERID $MINUTES",
       "ticket": "/ticket $PLAYERID $AMOUNT $REASON"
     },
     "mdcEnabled": true,
